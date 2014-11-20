@@ -1,0 +1,7 @@
+base   idoit
+author Oliver Günther
+email  mail@oliverguenther.de
+date   2014-11-20
+name   i-doit DokuWiki Syntax Plugin
+desc   This plugin provides a basic integration of the i-doit JSON-RPC API client in PHP with DokuWiki.
+url    https://github.com/oliverguenther/dokuwiki-idoit-syntax
