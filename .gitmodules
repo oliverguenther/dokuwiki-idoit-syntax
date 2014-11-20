@@ -1,0 +1,3 @@
+[submodule "idoit"]
+	path = idoit
+	url = https://bitbucket.org/dstuecken/i-doit-api-clients
